@@ -2,7 +2,7 @@
 Visualizing one year of Apple's iOS Health App Data with echoAR, Unity, Python
 
 ## Description
-Health checkups are usually done once a year and doctors tend to ask you if regularly exercise. This visualization uses your iPhone's Apple Health App to track your step count. The average amount of steps for each month in past year can be shown as a easy to understand visualization. This visualization can help doctors understand your exercise levels and use this as a measurement of fitness to help patients recognize their health levels.
+Health checkups are usually done once a year and doctors tend to ask you if regularly exercise. This visualization uses your iPhone's Apple Health App to track your step count. The average amount of steps for each month in the past year can be shown as a easy to understand visualization. This visualization can help doctors understand your exercise levels and use this as a measurement of fitness to help patients recognize their health levels.
 
 ## My Setup
 - Exported Health Data from Apple iPhone
