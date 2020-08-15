@@ -28,8 +28,10 @@ Health checkups are usually done once a year and doctors tend to ask you if regu
 <img src="Images/Visual.PNG">
 
 ## Big Thanks
-- echoAR for use of platform and references to tutorial 
+- echoAR for use of platform and references to tutorial
+  https://www.echoar.xyz/
   https://github.com/echoARxyz/Unity-echoAR-demo-COVID19#register
 - Analyze Your iOS Health Data With Python medium article for understanding of Apple Health Structure
   https://medium.com/better-programming/analyze-your-icloud-health-data-with-pandas-dd5e963e902f
 
+ 
