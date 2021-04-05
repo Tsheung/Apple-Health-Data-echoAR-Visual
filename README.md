@@ -27,7 +27,7 @@ Health checkups are usually done once a year and doctors tend to ask you if regu
 ## 2019 Steps by Month Visualization
 <img src="Images/Visual.PNG">
 
-## Big Thanks
+## References
 - echoAR for use of platform and references to tutorial <br>
   https://www.echoar.xyz/ <br>
   https://github.com/echoARxyz/Unity-echoAR-demo-COVID19#register
